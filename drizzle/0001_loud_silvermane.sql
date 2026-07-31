@@ -1,0 +1,1 @@
+ALTER TABLE `posts` ADD `edit_token_hash` text;
